@@ -1,0 +1,13 @@
+.App .title {
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.App .title.red{
+  color: red;
+}
+
+.App .images {
+  display: flex;
+}
